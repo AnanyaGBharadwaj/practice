@@ -1,4 +1,6 @@
-hello
-n="Ananya"
-print(len(n))
 
+print("Ananya")
+print("Hello")
+print("world")
+print("hello world")
+print("after many days")

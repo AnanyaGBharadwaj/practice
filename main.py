@@ -1,5 +1,4 @@
-print("Hello")
-print("world")
+hello
 n="Ananya"
 print(len(n))
-hi
+
